@@ -9,4 +9,4 @@ A competição de patinação no gelo é composta de várias modalidades: aquela
 
 A fim apenas de conhecimento, a ISU é composta por uma quantidade de associações nacionais, chamados ISU Members, que são aqueles que administram o esporte no nível nacional. Além disso, tem outros corpos oficiais parte da organização, que passam por votação periodicamente para serem organizados e haver decisão de membros participantes, como na hierarquia mostrada a seguir, que é a mais recente e foi retirada do próprio site da ISU:
 
-![Imagem do esquema da ISU.]([https://myoctocat.com/assets/images/base-octocat.svg](https://uploaddeimagens.com.br/imagens/rg1yK_A)https://uploaddeimagens.com.br/imagens/rg1yK_A)
+![Imagem do esquema da ISU.](https://uploaddeimagens.com.br/imagens/rg1yK_A)
