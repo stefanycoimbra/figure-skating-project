@@ -23,11 +23,10 @@ Apesar de fazer parte do ramo de Figure Skating, a modalidade de Synchronized Sk
 deixa de ser menos importante, uma vez que possui igualmente dificuldade técnica envolvida. A patinação sincronizada oferece aos atletas a chance de competir com uma
 equipe e aprender o valor do trabalho em equipe. Formado em 1956 pelo Dr. Richard Porter, o esporte era conhecido como “patinação de precisão” pelos movimentos intrincados que os patinadores executam juntos no gelo. A Patinação Artística dos EUA realizou o primeiro Campeonato Sincronizado de Patinação dos EUA em 1984 e o primeiro Campeonato Mundial de Patinação Sincronizada em 2000. Hoje, existem cerca de 600 equipes sincronizadas registradas nos Estados Unidos. Equipes de oito a 20 patinadores realizam formações desafiadoras e sequências de passos juntos, e as competições usam o mesmo sistema de julgamento de single, pairs e ice dance. Tal como acontece com outras modalidades de patinação no gelo, todas as equipes realizam free skate com os elementos necessários, e as equipes de nível júnior e sênior também realizam um programa curto.
 
-## <img src="https://img.icons8.com/fluency/30/diversity.png"/> Quais são as sub-categorias de cada categoria?
+## <img src="https://img.icons8.com/fluency/30/diversity.png"/> Quais são as sub-categorias?
 Em todas as categorias de Single Skating e Pair Skating, há duas sub-categorias necessárias e contabilizadas para a classificação: Short Program (SP) e Free Skating (FS). Para o caso de Men's, women's e pairs' short programs, o tempo de apresentação é de 2 minutos e 40 segundos (mais ou menos 10 segundos); para o caso de Men's and pairs' free skates o tempo de apresentação é de 4 minutos e 30 segundos (mais ou menos 10 segundos) e para o caso de Women's free skate o tempo deve ser de 4 minutos (mais ou menos 10 segundos).
 
-Já para a dança no gelo, no entanto, a separação nas olimpíadas se dá por rhythm dance e free dance. Essa é uma diferença em relação à categoria de Pair Skating. Outro ponto: na
-dança no gelo os competidores praticamente não realizam jumps e não são permitidos elementos próximos a acrobacias. Na dança no gelo, os elementos-chave são twizzle (um giro em um pé com uma ou mais rotações que é feita rapidamente com uma ação contínua), pattern dance, lift, spin, step sequence e elementos coreográficos. Já na patinação em pares, os principais elementos são difíceis de executar; isso inclui twist lifts (o atleta masculino levanta sua parceira sobre a cabeça e a joga no ar; a patinadora completa até três rotações antes de ser pega pela cintura), pair lifts, throw jumps (saltos com assistência nos quais a mulher é arremessada no ar pelo homem na decolagem e aterrissa sem a ajuda de seu parceiro), jumps, death spirals e spins. 
+Já para a dança no gelo, no entanto, a separação nas olimpíadas se dá por rhythm dance e free dance. Essa é uma diferença em relação à categoria de Pair Skating. Outro ponto: na dança no gelo os competidores praticamente não realizam jumps e não são permitidos elementos próximos a acrobacias. Na dança no gelo, os elementos-chave são twizzle (um giro em um pé com uma ou mais rotações que é feita rapidamente com uma ação contínua), pattern dance, lift, spin, step sequence e elementos coreográficos. Já na patinação em pares, os principais elementos são difíceis de executar; isso inclui twist lifts (o atleta masculino levanta sua parceira sobre a cabeça e a joga no ar; a patinadora completa até três rotações antes de ser pega pela cintura), pair lifts, throw jumps (saltos com assistência nos quais a mulher é arremessada no ar pelo homem na decolagem e aterrissa sem a ajuda de seu parceiro), jumps, death spirals e spins. 
 
 Tal como acontece com outras modalidades de patinação no gelo, todas as equipes realizam free skate com os elementos necessários, e as equipes de nível júnior e sênior também realizam um programa curto.
 
@@ -41,23 +40,23 @@ A competição consiste em oito segmentos: um programa curto e um longo (free sk
 
 Para o score das Olimpíadas de Inverno do ano de 2022, em Beijing, os resultados dos três primeiros da categoria de Men’s Single Skating, os colocados foram os mostrados na tabela a seguir, onde SP e FS significam, respectivamente, Short Program e Free Skating:
 
-![Imagem do Score da Categoria Men’s Single Skating.](https://uploaddeimagens.com.br/imagens/TPd2kSY)
+![Imagem do Score da Categoria Men’s Single Skating.](https://uploaddeimagens.com.br/images/004/617/469/full/01.png?1695523847)
 
 Os resultados dos três primeiros colocados para a categoria Women’s Single Skating foram os mostrados na tabela a seguir:
 
-![Imagem do Score da Categoria Women’s Single Skating.](https://uploaddeimagens.com.br/imagens/jnpb4zA)
+![Imagem do Score da Categoria Women’s Single Skating.](https://uploaddeimagens.com.br/images/004/617/470/full/02.png?1695523944)
 
 Os resultados dos três primeiros colocados para a categoria Pair Skating foram os mostrados na tabela a seguir:
 
-![Imagem do Score da Categoria Pair Skating.](https://uploaddeimagens.com.br/imagens/fsxvqLs)
+![Imagem do Score da Categoria Pair Skating.](https://uploaddeimagens.com.br/images/004/617/471/full/03.png?1695524005)
 
 Os resultados dos três primeiros colocados para a categoria Ice Dance foram os mostrados na tabela a seguir:
 
-![Imagem do Score da Categoria Ice Dance.](https://uploaddeimagens.com.br/imagens/3BUmx4M)
+![Imagem do Score da Categoria Ice Dance.](https://uploaddeimagens.com.br/images/004/617/472/full/04.png?1695524033)
 
 Os resultados dos três primeiros colocados para a categoria Team Event foram os mostrados na tabela a seguir:
 
-![Imagem do Score da Categoria Team Event.](https://uploaddeimagens.com.br/imagens/9puNEa8)
+![Imagem do Score da Categoria Team Event.](https://uploaddeimagens.com.br/images/004/617/473/full/05.png?1695524057)
 
 O sistema de pontuação de todas as modalidades, independente do evento se ele for oficial, é padronizado pela ISU.
 
