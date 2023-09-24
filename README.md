@@ -62,3 +62,35 @@ O sistema de pontuação de todas as modalidades, independente do evento se ele 
 
 No caso da patinação artística (Figure Skating), composta por Single e Pair Skating e Ice Dance, o Painel Técnico é composto pelo Controlador Técnico (Technical Controller, o Especialista Técnico (Technical Specialist) e o Especialista Técnico Assistente (Assistant Technical Specialist), cada um de diferentes Membros da ISU (países). Um Operador de Dados (Data Operator) os auxilia para fins de registro. Um vídeo instantâneo em câmera lenta do sistema de replay operado por um Operador de Replay funciona como ferramenta de suporte para o Painel Técnico durante a identificação dos elementos executados. O Especialista Técnico, auxiliado pelo Especialista Técnico Assistente, identifica e chama os elementos executados e os Níveis de Dificuldade específicos de certos elementos (por exemplo, spins, footwork). Ele/Ela identifica elementos ilegais ou adicionais e quedas. O Controlador Técnico autoriza e/ou corrige todas as chamadas, supervisiona o Operador de Dados e pode propor correções, se necessário. Em caso de desacordo, prevalece a maioria entre os três Oficiais.
 
+## <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/30/external-score-tennis-flaticons-lineal-color-flat-icons-6.png" alt="external-score-tennis-flaticons-lineal-color-flat-icons-6"/> Quais os elementos que impactam na pontuação?
+
+Cada elemento executado tem um valor base e os juízes atribuem um “Grau de Execução” (GOE) ao elemento permitindo que o elemento aumente em valor quando bem feito ou diminua em valor quando mal feito. Cada passo positivo ou negativo no GOE resulta em aumento ou diminuição do valor em 10% em Single e Pair Skating e em 16% em Ice Dance.
+
+Um grupo de especialistas, incluindo patinadores e treinadores experientes, elaboraram uma lista resumida do Valor Base de cada elemento, bem como seu “Nível de Dificuldade” em caso de spins, steps, lifts, etc.
+
+O nível de pontos do Valor Base depende da dificuldade do elemento. Alguns elementos, como sequências de giros e footwork, são ainda mais detalhados dependendo do seu “Nível de Dificuldade”. Esses valores básicos e níveis de dificuldade do elemento garantem que os skatistas recebam o crédito apropriado e consistente para cada elemento executado. O valor base de todos elementos reconhecidos são analisados pelos respectivos Comitês Técnicos e publicado anualmente pela ISU em uma comunicação.
+
+O nome do elemento identificado será listado instantaneamente na tela do Juiz. O Juiz então simplesmente classifica a qualidade do elemento em uma escala de +5, +4, +3, +2, +1, 0,-1, -2, -3, -4, -5. Com esta escala e o “julgamento de qualidade” resultante, o Juiz pode aumentar ou diminuir o Valor Base de cada elemento executado. O total de todas as pontuações dos elementos dá a pontuação técnica.
+
+Além da Pontuação Técnica, os Juízes atribuirão pontos em uma escala de 0,25 a 10,00 com incrementos de 0,25 para a pontuação da apresentação para avaliar a apresentação geral da performance com cinco Componentes do Programa: Habilidades de Patinação, Transições, Performance, Composição e Interpretação da Música/Timing (para Ice Dance).
+
+Para Pair Skating e Ice Dance deve haver igual demonstração dos critérios por ambos patinadores. Para o conhecimento de como é dada a pontuação de compoente, são cinco, ao total:
+
+- Skating Skills (Habilidades de Patinação):
+São definidas pela limpeza geral e segurança, controle de borda e fluxo sobre a superfície do gelo demonstrado por um comando do vocabulário de patinação (edges, steps, turns etc.), a clareza da técnica e o uso de força sem esforço para acelerar e variar a velocidade.
+
+- Transitions (Transições):
+Variedade, dificuldade e uso proposital de footwork intrincado, posições, movimentos e partes que ligam todos os elementos.
+
+- Performance (Desempenho):
+Envolvimento físico, emocional e intelectual do patinador/par/casal conforme eles entregam a intenção da música e composição (por exemplo, projeção, variedade, contrastes e personalidade).
+
+- Composition (Composição):
+Arranjo intencionalmente desenvolvido e/ou original de todos tipos de movimentos de acordo com os princípios da frase musical, espaço, padrão, e estrutura (por exemplo, ideia, conceito, visão, humor, padrão, uso multidimensional de espaço, fraseado, originalidade, design).
+
+- Interpretation of the Music /Timing - for Ice Dance (Interpretação da Música/Timing para Dança no Gelo):
+É o pessoal, criativo e tradução genuína do ritmo, caráter e conteúdo da música para movimento no gelo (por exemplo, tempo, expressão da música, uso de sutileza, relacionamento entre os patinadores, patinando ao ritmo rítmico) em Rhythm Dance e mantendo um bom equilíbrio entre patinar ao ritmo e melodia em Free Dance.
+
+A Pontuação Total do Segmento para cada participante em cada Segmento de uma competição (Short Program/Rhythm Dance, Free Skating/Free Dance ou Pattern Dance(s)) é calculada pela adição da pontuação total dos elementos e as pontuações dos componentes do programa, subtraindo qualquer dedução (por exemplo -1,0 para uma queda) e a menor e maior notas cada uma multiplicada pelo número de componentes ou elementos do programa. Na Dança do Gelo, para eventos com duas Danças Padrão (Pattern Dances), a pontuação total de cada dança será multiplicada por um fator de 0,5. A pontuação total do segmento de ambos os programas é somada e o resultado constitui a pontuação final em uma competição. O participante com a maior pontuação total vence. Para a patinação sincronizada as regras se aplicam assim como para a dança no gelo, mas considerando que são de 8 a 16 patinadores em uma apresentação, então em deduções de queda, por exemplo, caso uma pessoa caia, já é considerada na pontuação -1.0.
+
+## <img src="https://img.icons8.com/officel/30/athlete-female.png" alt="external-score-tennis-flaticons-lineal-color-flat-icons-6"/> Quais são alguns exemplos de competidores, técnicos e comitê do esporte?
