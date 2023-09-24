@@ -94,3 +94,42 @@ Arranjo intencionalmente desenvolvido e/ou original de todos tipos de movimentos
 A Pontuação Total do Segmento para cada participante em cada Segmento de uma competição (Short Program/Rhythm Dance, Free Skating/Free Dance ou Pattern Dance(s)) é calculada pela adição da pontuação total dos elementos e as pontuações dos componentes do programa, subtraindo qualquer dedução (por exemplo -1,0 para uma queda) e a menor e maior notas cada uma multiplicada pelo número de componentes ou elementos do programa. Na Dança do Gelo, para eventos com duas Danças Padrão (Pattern Dances), a pontuação total de cada dança será multiplicada por um fator de 0,5. A pontuação total do segmento de ambos os programas é somada e o resultado constitui a pontuação final em uma competição. O participante com a maior pontuação total vence. Para a patinação sincronizada as regras se aplicam assim como para a dança no gelo, mas considerando que são de 8 a 16 patinadores em uma apresentação, então em deduções de queda, por exemplo, caso uma pessoa caia, já é considerada na pontuação -1.0.
 
 ## <img src="https://img.icons8.com/officel/30/athlete-female.png" alt="external-score-tennis-flaticons-lineal-color-flat-icons-6"/> Quais são alguns exemplos de competidores, técnicos e comitê do esporte?
+
+Na competição de patinação do gelo, temos os competidores, que são os patinadores (skaters), técnicos (coaches), juízes (judges) e árbitros (referees). 
+
+Temos, por exemplo, Yuzuru Hanyu, que nasceu em 7 de dezembro de 1994, mora e compete pelo Japão. Nos Jogos Olímpicos de Inverno de Sochi em 2014, ele ganhou a primeira medalha de ouro olímpica para o Japão no evento masculino de patinação artística. Ele terminou o ano com uma vitória no Campeonato Mundial de Patinação Artística de 2014 em Saitama, Japão. Apesar de sofrer lesões e doenças durante a temporada 2014-15, ele defendeu com sucesso seu título na final do Grande Prêmio e também conquistou uma medalha de prata no Campeonato Mundial de 2015. Naquela temporada, ele conquistou seu terceiro título consecutivo no Campeonato Nacional do Japão e a participação no '2015 World Team Trophy' pela primeira vez ajudou a equipe do Japão a conquistar a medalha de bronze.
+
+Temos também a Anna Shcherbakova, que nasceu em 28 de março de 2004, mora e compete pela Rússia. Atual campeã mundial e vice-campeã europeia, Shcherbakova levou a medalha de ouro nas Olimpíadas de Inverno de 2022, onde a atleta de 17 anos acertou praticamente todos os seus elementos em um programa com dois saltos quádruplos e várias combinações entre saltos triplos.
+
+Outro competidor é Nathan Chen, nascido em 5 de maio de 1999, competidor dos Estados Unidos. Nathan Chen anotou um recorde mundial com sua apresentação no programa curto individual na patinação artística dos Jogos Olímpicos de Inverno em Pequim. O norte-americano conseguiu a marca de 113.97 pontos, superando o anterior recorde de Yuzuru Hanyu.
+
+Da patinação artística, modalidade dança no gelo, temos, por exemplo, Gabriella Papadakis e Guillaume Cizeron, da França, ouro na competição ISU World Championships 2022, sediada em Montpellier, conquistando 229.82 pontos, sendo o Personal Best Total Score atual do par. Os parceiros estavam com os técnicos Romain Haguenauer, Marie-France Dubreuil, Patrice Lauzon e como coreógrafos Romain Haguenauer (RD), Marie-France Dubreuil (FD) e Samuel Chouinard. As siglas RD e FD são usadas nesta modalidade para se referirem às duas rodadas que os competidores devem participar: Rhythm Dance e Free Dance, respectivamente, para comporem sua pontuação final.
+
+Todo patinador possui um técnico principal que o conduz e guia nos treinos e competições. Stéphane Lambiel, por exemplo, é o atual técnico de Uno Shoma e que o conduziu à sua medalha de bronze nos jogos olímpicos de inverno de 2022, em Pequim. Lambiel, nascido em 02 de abril de 1985, foi um patinador que competiu pela Suíça, foi medalhista de prata nos jogos olímpicos de 2006, duas vezes campeão do Grand Prix (em 2005 e em 2007) e nove vezes campeão nacional de seu país.
+
+Eteri Tutberidze é a técnica de Kamila Valieva. Nasceu em 24 de fevereiro de 1974, competiu pela Rússia, fez transição da patinação artística para dança no gelo aos quatro anos e não há relatos de medalhas na modalidade anterior.
+
+Adam Rippon é o atual técnico de Mariah Bell, que a conduziu nas olimpíadas em Pequim de 2022, possui medalha de bronze em equipe em PyeongChang 2018 e foi quinto lugar no ISU Grand Prix Final 2017.
+
+Um juiz é definido como ISU Judge ou International Judge, tem uma nacionalidade e um título honorífico que o identifica. Há também os Referees (Árbitros), que são os líderes e porta-vozes designados para um evento. Eles também gerenciam o painel de juízes e, dependendo do tamanho da competição, também podem atuar como um dos juízes do evento. São definidos como ISU Referee ou International Referee, possuem uma nacionalidade e um título honorífico que o identifica.
+
+## <img src="https://img.icons8.com/external-icongeek26-linear-colour-icongeek26/30/external-controls-cinema-icongeek26-linear-colour-icongeek26.png"/> Quais os níveis de competição nesse tipo de esporte?
+
+Há alguns níveis de competição no figure skating com cada especificação de idade para que o competidor possa ser considerado:
+- Senior: deve ter, no mínimo, 15 anos de idade
+- Junior: deve ter, no mínimo, 13 anos de idade e menos de 19 anos de idade (21 para homens na sub-categoria de pares e dança no gelo)
+- Advanced Novice: deve ter, no mínimo, 10 anos de idade e menos de 15 anos de idade (17 para homens na sub--categoria de pares e dança no gelo)
+- Intermediate Novice: deve ter menos de 15 anos de idade
+- Basic Novice: deve ter menos de 13 anos de idade
+
+Cada evento deve ser identificado pelo nível da competição acima, nome da competição, local e dias que acontecerá.
+
+Para o programa curto de patinação artística individual e em pares, anualmente é atualizado o documento (ISU Communication), se necessário, com a escala de valores (Scale of Values) base para cada tipo de elemento. A última atualização do ano de 2022 foi para a temporada 2022/2023. Cada tipo de elemento, como saltos, giros e passos, possui 11 valores base, que são os mencionados anteriormente: -5, -4, -3, -2, -1, 0, +1, +2, +3, +4, +5. Um elemento é definido pelo seu nome, código, 11 valores referentes à escala e a cor de validação: se foi validado, verde; se foi invalidado, vermelho; se passou por revisão, amarelo. O score então é dado como na figura a seguir, que é referente ao painel dos juízes para a Anna Shcherbakova no Free Skating nas Olimpíadas de Inverno de 2022:
+
+![Imagem do Score de Anna Shcherbakova no Free Skating 2022.](https://uploaddeimagens.com.br/images/004/617/723/full/06.png?1695595295)
+
+Para facilitar um pouco o processo de pontuação, foi considerada a soma de todas as pontuações dos juízes com a diferença da multiplicação do menor e maior ambos pelo número de elementos técnicos analisados na categoria. Esse critério foi usado tanto para o score referente aos componentes de programa quanto àquele referente aos elementos técnicos.
+
+O resultado final na classificação pode ser visto dessa forma abaixo, onde os pontos correspondem à soma do Short Program e Free Skate e os números nas colunas SP e FS dizem a respeito, respectivamente, à classificação do patinador ou patinadora ou par em cada um dos programas curto e longo:
+
+![Imagem do Score Final da Categoria Feminina de Figure Skating 2022.](https://uploaddeimagens.com.br/images/004/617/725/full/07.png?1695595377)
